@@ -1,2 +1,2 @@
 # epam-training
-epam JAVA training spring-2016
+JAVA-web training spring-2016
